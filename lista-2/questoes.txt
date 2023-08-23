@@ -1,0 +1,57 @@
+L2Q1:
+Imagine que nós temos uma lista de números armazenada na memória.
+Por exemplo,L = [8,2,5,11,29,13,6,16,7,10]
+A tarefa consiste em
+Calcular a média aritmética dos elementos da lista
+No exemplo acima, isso nos daria => 10.7
+Apresente um programa que realiza essa tarefa.
+
+L2Q2:
+Agora imagine que a tarefa é a seguinte:
+Contar a quantidade de elementos na lista que são maiores do que a média
+No exemplo abaixo, isso nos daria => 4
+L = [8,2,5,11,29,13,6,16,7,10]
+
+L2Q3:
+Imagine que nós temos uma lista que pode conter elementos repetidos.
+Por exemplo,
+L = [4,17,8,17,4,1,1,14,7,4]
+A tarefa consiste em:
+→ Verificar se existe dois elementos consecutivos iguais
+No exemplo acima, isso nos daria
+=> Sim
+Apresente um programa que realiza essa tarefa.
+
+L2Q4:
+Imagine que nós temos uma lista de números armazenada na memória.
+Por exemplo,
+L = [11,5,8,18,28,3,6,14,7,20]
+A tarefa consiste em:
+→ Encontrar o menor número ı́mpar da lista
+No exemplo acima, isso nos daria
+=> 3
+Apresente um programa que realiza essa tarefa.
+Nota: Caso a lista não contenha números ı́mpares, o programa deve imprimir -1.
+
+L2Q5:
+Imagine que nós temos uma lista de números armazenada na memória.
+Por exemplo,
+L = [8,4,1,9,17,12,26,13,7,14]
+A tarefa consiste em
+→ Encontrar o segundo menor número ı́mpar da lista
+No exemplo acima, isso nos daria
+=> 7
+Apresente um programa que realiza essa tarefa.
+Nota: Caso a lista não contenha ao menos dois números ı́mpares, o programa deve imprimir -1.
+E você pode assumir que os elementos da lista são todos diferentes.
+
+L2Q6:
+Imagine que nós temos uma lista de números armazenada na memória.
+Por exemplo,
+L = [15,2,11,19,21,12,3,9,6,4]
+A tarefa consiste em
+→ Encontrar o terceiro maior elemento da lista
+No exemplo acima, isso nos daria
+=> 15
+Apresente um programa que realiza essa tarefa.
+Nota: Você pode assumir que os elementos da lista são todos diferentes.
