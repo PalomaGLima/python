@@ -1,0 +1,42 @@
+L1Q1:
+Modifique o programa do exemplo (c) da aula 01 para que ele:
+- pergunte a nota da prova final — (se necessário)
+- recalcule a média — (se necessário)
+- e imprima a situação final do estudante: Aprovado ou Reprovado
+
+L1Q2:
+Faça um programa que:
+- lê 3 números do teclado
+- e imprime o maior de todos na tela
+
+L1Q3:
+A professora decidiu aplicar 3 provas ao longo do semestre.
+Mas ela só vai considerar as duas maiores notas no cálculo da média.
+Faça um programa que implementa essa lógica, e imprime a situação final do estudante na tela:
+Aprovado ou Reprovado.
+
+L1Q4:
+Imagine que você conhece os lados ℓ1,ℓ2,ℓ3 de um triângulo.
+Então, você pode determinar a área do triângulo da seguinte maneira
+primeiro a gente calcula:
+S=(ℓ1+ℓ2+ℓ3)/2
+- e depois a gente utiliza a fórmula:
+Area=raiz de S×(S−ℓ1)×(S−ℓ2)×(S−ℓ3)
+Faça um programa que calcula a área do triângulo dessa maneira.
+
+L1Q5:
+Às vezes, nós queremos calcular a média entre dois números x e y, onde um deles é mais importante
+do que o outro.
+Para fazer isso, nós associamos um peso a cada número.
+Por exemplo, se x é duas vezes mais importante do que y, a gente define os pesos assim:
+
+peso - x = 2 e peso - y = 1
+
+E daı́, a gente calcula a média assim:
+x∗peso-x+y∗peso-Y/peso-X+peso-Y
+
+Essa média é chamada de média ponderada.
+Faça um programa que lê
+- lê os valores de x e y do teclado
+- lê os pesos associados a x e y do teclado
+- calcula e imprime a média ponderada de x e y na tela
