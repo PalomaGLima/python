@@ -1,0 +1,68 @@
+L4Q1:
+Duas posições depois
+Imagine que nós temos uma lista de números armazenada na memória.
+Por exemplo,
+L = [1,8,3,12,6,15,30,19,35,36,38]
+A tarefa consiste em:
+→ Verificar se cada elemento da lista é menor do que o elemento que aparece duas posições à sua frente.
+No exemplo acima, isso nos daria:
+=> Sim
+Faça um programa que realiza essa tarefa.
+
+L4Q2:
+Uma lista com muitos 1’s
+Imagine que nós temos uma lista de números que contém diversos 1’s.
+Por exemplo,
+L = [7,1,10,42,1,1,30,1,25,16,8,1,5]
+A tarefa consiste em:
+→ Calcular a maior distância entre dois 1’s consecutivos
+No exemplo acima, isso nos daria:
+=> 3
+
+L4Q3:
+Lista dentro da lista, ao contrário
+Imagine que nós temos duas listas U e V, onde a lista V tem o dobro do tamanho da lista U.
+U = [6,2,19,5,7,8]
+V = [10,9,4,8,7,5,19,2,6,20,5,3]
+A tarefa consiste em:
+→ Verificar se a lista U aparece dentro da lista V em posições consecutivas,
+mas virada ao contrário
+No exemplo acima, isso nos daria:
+=> Sim
+
+L4Q4:
+Operação de rotação
+A operação de rotação consiste em empurrar todos os elementos da lista um certo número de
+posições para frente — (onde os elementos do final da lista vão parar no inı́cio)
+Por exemplo,
+Agora imagine que nós temos duas listas U e V do mesmo tamanho armazenadas na memória.
+U = [17,10,42,15,30,9,6,20,16,25]
+V = [6,20,16,25,17,10,42,15,30,9]
+A tarefa consiste em:
+→ Verificar se a lista V pode ser obtida a partir da lista U
+por meio da operação de rotação
+No exemplo acima, isso nos daria:
+=> Sim
+Apresente um programa que realiza essa tarefa.
+
+L4Q5:
+Ímpares consecutivos 1.0
+Imagine que nós temos uma lista de números armazenada na memória.
+L = [17,10,6,15,9,3,42,20,16,25,5]
+A tarefa consiste em
+→ Encontrar a maior sequência de ı́mpares consecutivos, e imprimir esses números.
+No exemplo acima, isso nos daria:
+=> 15, 9, 3
+Apresente um programa que realiza essa tarefa.
+Nota: Caso a lista não contenha números ı́mpares, o programa deve imprimir uma mensagem
+indicando esse fato.
+
+L4Q6:
+Ímpares consecutivos 2.0
+Imagine que nós temos uma lista de números armazenada na memória.
+Por exemplo,
+L = [9,3,2,12,6,15,7,18,5,11,14]
+A tarefa consiste em:
+→ Verificar se todas a sequências de ı́mpares consecutivos possuem o mesmo tamanho
+No exemplo acima, isso nos daria:
+=> Sim
